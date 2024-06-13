@@ -36,7 +36,7 @@ const GLOBAL_CONFIG = {
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://www.lowkingonline.love",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -66,7 +66,6 @@ const GLOBAL_CONFIG = {
     "嗨，别来无恙",
     "不忘初心，一生浪漫",
     "最近还好吗？",
-    "流星，落花，萤火",
     "马车越空，晃荡越响",
   ],
   /**
