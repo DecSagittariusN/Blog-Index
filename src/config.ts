@@ -8,44 +8,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "http://www.your-web-page.com/",
         icon: "",
         color: "#0171CD",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-      {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
-        icon: "",
-      },
-    ],
-  },
-  {
-    title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
-  },
-  {
-    title: "友情链接",
-    sites: [
-      {
-        title: "EsunR Blog",
-        description: "EsunR 的博客",
-        url: "https://www.esunr.xyz",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
-      },
-    ],
-  },
+      }
 ];
 
 /** Website 配置（2023.3.29 已废弃） */
@@ -55,11 +18,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "静观",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/91878/c29d3bc0-0801-4ec7-a885-a52dedc3e5961503149.png?x-oss-process=image/resize,h_1308/interlace,1",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -67,15 +30,15 @@ const GLOBAL_CONFIG = {
   /**
    * 个人 Github 链接
    */
-  GITHUB_URL: "https://github.com/EsunR",
+  GITHUB_URL: "https://github.com/DecSagittariusN",
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1920.php",
+  BACKGROUND_IMG_URL: "https://bz.qianxingtu.com/2024/04/003439-17135444792cad.jpg",
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
+  ICP: "",
   ICP_URL: "https://beian.miit.gov.cn/",
   FOOTER_INFO: true,
   /**
