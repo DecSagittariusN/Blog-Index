@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "NAS",
-        url: "http://http://nas.lowkingonline.love:9999//",
+        url: "http://nas.lowkingonline.love:9999/",
         description: "绿联私有云是一款管理绿联网络私有云存储设备的应用，提供海量云存储空间，支持多终端并用，随时随地备份照片、视频、音频、文档等，更有RAID1备份模式、加密空间、用户访问权限管理等，重重安全防护.",
         icon: "https://pp.myapp.com/ma_icon/0/icon_54195933_1713812517/256",
         color: "#0171CD",
