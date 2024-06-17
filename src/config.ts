@@ -4,6 +4,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "链接",
     sites: [
       {
+        title: "NAS",
+        url: "http://http://nas.lowkingonline.love:9999//",
+        description: "绿联私有云是一款管理绿联网络私有云存储设备的应用，提供海量云存储空间，支持多终端并用，随时随地备份照片、视频、音频、文档等，更有RAID1备份模式、加密空间、用户访问权限管理等，重重安全防护.",
+        icon: "https://pp.myapp.com/ma_icon/0/icon_54195933_1713812517/256",
+        color: "#0171CD",
+      },
+      {
         title: "摸鱼云",
         url: "https://www.moyucloud.com/",
         description: "通过我们的服务享受极速的海外互联 我们在世界各地提供网络解决方案，以本地内联网传输和加密通道处理为标准，利用多个网络提供商、优化的路由和多级冗余来确保服务的可靠性。",
