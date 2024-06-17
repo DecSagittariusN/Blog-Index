@@ -18,9 +18,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         color: "#0171CD",
       },
       {
-        title: "主标题",
+        title: "悠兔",
         description: "悠兔机场运营与 2022 年，支持 Shadowsocks 协议，公网隧道中转和专线混合网络，有家宽 IP 节点提供。悠兔机场注册可免费试用，对 Netflix、Disney+ 流媒体解锁服务也还不错。另外，悠兔机场地址为 youtu.shop，跟 YToo 机场不是同一家，YToo 机场中文名为歪兔。",
-        url: "httpS://youtu0.com",
+        url: "https://link3.yootu.shop/register?aff=qi0A5TL7",
         icon: "https://img.imgdd.com/f210f3.4118c3bc-587e-4f38-a58a-b8c9c312b503.png",
       },
     ],
