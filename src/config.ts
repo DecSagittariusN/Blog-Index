@@ -50,7 +50,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "http://nas.lowkingonline.love:5081/dav/lowkingonline/Download/%E9%87%91%E5%85%8B%E4%B8%9D/%E6%88%BF%E9%97%B4%20%E9%87%91%E5%85%8B%E4%B8%9D4K%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg",
+  BACKGROUND_IMG_URL: "https://github.com/DecSagittariusN/Blog-Index/blob/master/public/%E6%88%BF%E9%97%B4%20%E9%87%91%E5%85%8B%E4%B8%9D4K%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg?raw=true",
   /**
    * ICP 备案号，留空不显示
    */
