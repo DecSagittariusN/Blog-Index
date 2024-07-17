@@ -35,6 +35,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://openai.com/chatgpt/",
         icon: "https://openai.com/favicon.ico",
       },
+      {
+        title: "vercel",
+        description: "Vercel 提供开发人员工具和云基础设施，用于构建、扩展和保护更快、更个性化的 Web。",
+        url: "https://vercel.com/home",
+        icon: "https://vercel.com/favicon.ico",
+      },
     ],
   },
 ];
