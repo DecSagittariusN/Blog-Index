@@ -23,6 +23,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://link3.yootu.shop/register?aff=qi0A5TL7",
         icon: "https://img.imgdd.com/f210f3.4118c3bc-587e-4f38-a58a-b8c9c312b503.png",
       },
+      {
+        title: "Next-ChatGPT",
+        description: "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+        url: "https://chat.lowkingonline.love",
+        icon: "https://chat.lowkingonline.love/favicon.ico",
+      },
     ],
   },
 ];
