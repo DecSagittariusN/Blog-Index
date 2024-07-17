@@ -29,6 +29,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://chat.lowkingonline.love",
         icon: "https://chat.lowkingonline.love/favicon.ico",
       },
+      {
+        title: "ChatGPT",
+        description: "获取答案。寻找灵感。提高工作效率。免费使用。易于尝试。只需询问，ChatGPT 可以帮助写作、学习、头脑风暴等。",
+        url: "https://openai.com/chatgpt/",
+        icon: "https://openai.com/favicon.ico",
+      },
     ],
   },
 ];
