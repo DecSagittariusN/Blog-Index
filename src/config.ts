@@ -41,6 +41,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         url: "https://vercel.com/home",
         icon: "https://vercel.com/favicon.ico",
       },
+      {
+        title: "ChatAnywhere API 用量查询",
+        description: "ChatAnywhere API 用量查询。",
+        url: "https://api.chatanywhere.org/",
+        icon: "https://api.chatanywhere.org/favicon.ico/",
+      },
     ],
   },
 ];
