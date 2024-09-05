@@ -45,7 +45,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "ChatAnywhere API 用量查询",
         description: "ChatAnywhere API 用量查询。",
         url: "https://api.chatanywhere.org/",
-        icon: "https://api.chatanywhere.org/favicon.ico/",
+        icon: "https://ice.frostsky.com/2024/09/05/dcc1a6e5cddd06e14678ee13c1713948.jpeg",
       },
     ],
   },
