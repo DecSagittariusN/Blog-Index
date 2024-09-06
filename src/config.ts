@@ -36,6 +36,12 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         icon: "https://openai.com/favicon.ico",
       },
       {
+        title: "GitHub",
+        description: "GitHub 是一个基于 Git 的版本控制和协作平台，广泛用于软件开发和版本管理。自 2008 年成立以来，GitHub 已成为全球开发者和团队共享、管理和协作代码的重要工具。",
+        url: "https://github.com/",
+        icon: "https://github.com/favicon.ico",
+      },
+      {
         title: "vercel",
         description: "Vercel 提供开发人员工具和云基础设施，用于构建、扩展和保护更快、更个性化的 Web。",
         url: "https://vercel.com/home",
