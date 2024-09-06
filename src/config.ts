@@ -86,10 +86,8 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: {
-    url: "https://ice.frostsky.com/2024/09/05/89429b96f7e2236c360798dbf4b54a6a.jpeg",
-    alt: "89429b96f7e2236c360798dbf4b54a6a.jpeg?raw=true"
-  },
+  BACKGROUND_IMG_URL:
+    url: "https://ice.frostsky.com/2024/09/05/89429b96f7e2236c360798dbf4b54a6a.jpeg" alt: "89429b96f7e2236c360798dbf4b54a6a.jpeg?raw=true",
   /**
    * ICP 备案号，留空不显示
    */
