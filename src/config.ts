@@ -11,13 +11,6 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         color: "#0171CD",
       },
       {
-        title: "摸鱼云",
-        url: "https://www.moyucloud.com/",
-        description: "通过我们的服务享受极速的海外互联 我们在世界各地提供网络解决方案，以本地内联网传输和加密通道处理为标准，利用多个网络提供商、优化的路由和多级冗余来确保服务的可靠性。",
-        icon: "https://www.moyucloud.com/assets/moyu-b1f10aa5.webp",
-        color: "#0171CD",
-      },
-      {
         title: "悠兔",
         description: "悠兔机场运营与 2022 年，支持 Shadowsocks 协议，公网隧道中转和专线混合网络，有家宽 IP 节点提供。悠兔机场注册可免费试用，对 Netflix、Disney+ 流媒体解锁服务也还不错。另外，悠兔机场地址为 youtu.shop，跟 YToo 机场不是同一家，YToo 机场中文名为歪兔。",
         url: "https://link3.yootu.shop/register?aff=qi0A5TL7",
@@ -27,7 +20,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "Next-ChatGPT",
         description: "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
         url: "https://chat.dawnapeak.cn",
-        icon: "https://chat.lowkingonline.love/favicon.ico",
+        icon: "https://chat.dawnapeak.cn/favicon.ico",
       },
       {
         title: "ChatGPT",
