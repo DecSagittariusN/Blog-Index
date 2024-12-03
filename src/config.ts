@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "NAS",
-        url: "http://nas.lowkingonline.love:9999/",
+        url: "http://ug.link/lowking/",
         description: "绿联私有云是一款管理绿联网络私有云存储设备的应用，提供海量云存储空间，支持多终端并用，随时随地备份照片、视频、音频、文档等，更有RAID1备份模式、加密空间、用户访问权限管理等，重重安全防护.",
         icon: "https://pp.myapp.com/ma_icon/0/icon_54195933_1713812517/256",
         color: "#0171CD",
@@ -26,7 +26,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "Next-ChatGPT",
         description: "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
-        url: "https://chat.lowkingonline.love",
+        url: "https://chat.dawnapeak.cn",
         icon: "https://chat.lowkingonline.love/favicon.ico",
       },
       {
@@ -87,7 +87,7 @@ const GLOBAL_CONFIG = {
    * 背景图片地址
    */
   BACKGROUND_IMG_URL:
-    url: "https://raw.githubusercontent.com/DecSagittariusN/Blog-Index/master/public/%E6%88%BF%E9%97%B4%20%E9%87%91%E5%85%8B%E4%B8%9D4K%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg",
+    url: "",
   /**
    * ICP 备案号，留空不显示
    */
