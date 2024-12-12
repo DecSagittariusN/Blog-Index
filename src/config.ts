@@ -79,7 +79,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://raw.githubusercontent.com/DecSagittariusN/Blog-Index/refs/heads/master/public/%E6%88%BF%E9%97%B4%20%E9%87%91%E5%85%8B%E4%B8%9D4K%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg",
+  BACKGROUND_IMG_URL: "https://pics0.baidu.com/feed/4bed2e738bd4b31c21ab6656173432729c2ff8bc.jpeg?token=a6b005b08f402a61bf137c3ba0dc9e1e",
   /**
    * ICP 备案号，留空不显示
    */
