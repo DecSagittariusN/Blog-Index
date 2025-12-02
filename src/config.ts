@@ -5,7 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     sites: [
       {
         title: "NAS",
-        url: "http://ug.link/lowking/",
+        url: "https://ug.link/lowking",
         description: "绿联私有云是一款管理绿联网络私有云存储设备的应用，提供海量云存储空间，支持多终端并用，随时随地备份照片、视频、音频、文档等，更有RAID1备份模式、加密空间、用户访问权限管理等，重重安全防护.",
         icon: "https://pp.myapp.com/ma_icon/0/icon_54195933_1713812517/256",
         color: "#0171CD",
@@ -13,13 +13,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "悠兔",
         description: "悠兔机场运营与 2022 年，支持 Shadowsocks 协议，公网隧道中转和专线混合网络，有家宽 IP 节点提供。悠兔机场注册可免费试用，对 Netflix、Disney+ 流媒体解锁服务也还不错。另外，悠兔机场地址为 youtu.shop，跟 YToo 机场不是同一家，YToo 机场中文名为歪兔。",
-        url: "https://link3.yootu.shop/register?aff=qi0A5TL7",
+        url: "https://youtu0.com",
         icon: "https://img.imgdd.com/f210f3.4118c3bc-587e-4f38-a58a-b8c9c312b503.png",
       },
       {
         title: "Next-ChatGPT",
         description: "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
-        url: "https://chat.dawnapeak.cn",
+        url: "https://chat.dawnarpeak.xyz",
         icon: "https://chat.dawnapeak.cn/favicon.ico",
       },
       {
@@ -79,13 +79,13 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://pics0.baidu.com/feed/4bed2e738bd4b31c21ab6656173432729c2ff8bc.jpeg?token=a6b005b08f402a61bf137c3ba0dc9e1e",
+  BACKGROUND_IMG_URL: "",
   /**
    * ICP 备案号，留空不显示
-   */
+   
   ICP: "京ICP证000001号",
   ICP_URL: "https://beian.miit.gov.cn/",
-  FOOTER_INFO: true,
+  FOOTER_INFO: true,*/
   /**
    * 网站欢迎标语
    */
